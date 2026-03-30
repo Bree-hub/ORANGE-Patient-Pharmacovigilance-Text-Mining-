@@ -1,4 +1,4 @@
-# ORANGE-Patient-Pharmacovigilance-Text-Mining-
+
 # Text Mining in Healthcare — Drug Review Analysis
 
 A text mining project analysing 65,000+ patient drug reviews using Orange Data Mining, structured around the CRISP-DM framework. The project runs two parallel analytical branches on the same dataset.
